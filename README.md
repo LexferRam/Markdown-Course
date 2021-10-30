@@ -98,12 +98,18 @@ print("Hello world")
 * [ ]  Task2
 * [x] Task3
 
-@LexferRam :smiley: :+1: 
+@LexferRam :smiley: :+1:
 
 ___
 
-### github emojis :earth_americas:
-
-[https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
-
+### github emojis :earth_americas
 <!-- github emojis -->
+[https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908 "ir a github emojis")
+ ___
+
+### github emojis :earth_americas
+
+<!--Markdown-Cheatsheet -->
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown cheatsheet")
+
+<!-- Markdown cheatsheet -->
