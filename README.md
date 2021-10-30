@@ -97,3 +97,13 @@ print("Hello world")
 * [x] Task1
 * [ ]  Task2
 * [x] Task3
+
+@LexferRam :smiley: :+1: 
+
+___
+
+### github emojis :earth_americas:
+
+[https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)
+
+<!-- github emojis -->
